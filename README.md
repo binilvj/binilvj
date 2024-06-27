@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @binilvj
 - 👀 I’m interested in Python for Data Engineering and Automation
-- 🌱 I’m currently learning Airflow, Spark and Pandas
 - 📫 How to reach me binilvj@gmail.com
 
 <!---
